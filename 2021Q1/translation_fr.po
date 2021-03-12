@@ -999,23 +999,23 @@ msgstr "Veuillez saisir un commentaire."
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271920}"
 msgid "Extremely dissatisfied"
-msgstr ""
+msgstr "Extrêmement insatisfait"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271921}"
 msgid "Dissatisfied"
-msgstr ""
+msgstr "Insatisfait"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271922}"
 msgid "Neither satisfied nor dissatisfied"
-msgstr ""
+msgstr "Ni satisfait ni insatisfait"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271923}"
 msgid "Satisfied"
-msgstr ""
+msgstr "Satisfait"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271924}"
 msgid "Extremely satisfied"
-msgstr ""
+msgstr "Extrêmement satisfait"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271925}"
 msgid "N/A"
@@ -1023,7 +1023,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271927}"
 msgid "Overall"
-msgstr ""
+msgstr "En général"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277108}"
 msgid "Navigation and routing"
@@ -1031,11 +1031,11 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277109}"
 msgid "Performance"
-msgstr ""
+msgstr "Performance"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277110}"
 msgid "Using with Hot Reload"
-msgstr ""
+msgstr "Utilisation avec Hot Reload"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277111}"
 msgid "Deep Linking"
@@ -1043,7 +1043,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271926}"
 msgid "Organization of content"
-msgstr ""
+msgstr "Organisation du contenu"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271928}"
 msgid "Styling"
@@ -1063,7 +1063,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097389116}"
 msgid "Application performance"
-msgstr ""
+msgstr "Performance des applications"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097391856}"
 msgid "SearchHandler"
@@ -1139,7 +1139,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377440}"
 msgid "I didn't know this was possible in Shell"
-msgstr ""
+msgstr "Je ne savais pas que c'était possible avec Shell."
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4097377442, \"checksum\": "
@@ -1149,15 +1149,15 @@ msgstr "Veuillez saisir un commentaire."
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097403436}"
 msgid "Yes"
-msgstr ""
+msgstr "Oui"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097403437}"
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097403438}"
 msgid "Tried and gave up"
-msgstr ""
+msgstr "J'ai essayé et j'ai abandonné"
 
 msgctxt ""
 "{\"cxt\": \"question_other\", \"id\": 4051178183, \"checksum\": "
@@ -1167,11 +1167,11 @@ msgstr "Autre (veuillez préciser)"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4051178197}"
 msgid "Additional Comments"
-msgstr ""
+msgstr "Commentaires supplémentaires"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4051178237}"
 msgid "Why?"
-msgstr ""
+msgstr "Pourquoi ?"
 
 msgctxt ""
 "{\"cxt\": \"question_other\", \"id\": 4051178244, \"checksum\": "
@@ -1211,7 +1211,7 @@ msgstr "Autre (veuillez préciser)"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4086947875}"
 msgid "Why? (please comment)"
-msgstr ""
+msgstr "Pourquoi ? (veuillez commenter)"
 
 msgctxt ""
 "{\"cxt\": \"question_other\", \"id\": 4051178311, \"checksum\": "
@@ -1239,7 +1239,7 @@ msgstr "Autre (veuillez préciser)"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4097403439}"
 msgid "Why did you need a Shell renderer?"
-msgstr ""
+msgstr "Pourquoi avez-vous eu besoin d'un Shell renderer?"
 
 msgctxt ""
 "{\"cxt\": \"question_required\", \"id\": 4051178209, \"checksum\": "
